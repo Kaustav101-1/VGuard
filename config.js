@@ -1,7 +1,7 @@
 // Paste the Web app URL from Apps Script here (Deploy > Manage deployments > Web app URL).
 // Leave it empty to run the form without saving (answers stay in the browser only).
 window.STUDY_CONFIG = {
-  APPS_SCRIPT_URL: "",
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxP3KX_QPYrCrrZxe77brvAMVKqir7aFv1Hx6DEDtEXZEaRF8UNNwwceGfIu9IWar81/exec",
 
   // Used only if the Apps Script can't be reached. The live split, quotas and
   // version caps are set in apps-script/Code.gs.
